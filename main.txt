@@ -1,5 +1,6 @@
 
 cosa 1
-cosa 2
+arregle cosa 2
+cosa 3
 cosa relacionada con login
 otra cosa relacionada con login
