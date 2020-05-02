@@ -1,2 +1,5 @@
 
-campos y botones
+campo nombre
+campo contraseña
+campo repetir contraseña
+botón
