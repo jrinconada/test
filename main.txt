@@ -6,3 +6,4 @@ cosa 4
 cosa relacionada con login
 otra cosa relacionada con login
 Cosa 3 relacionada con login
+Cosa relacionada con register
